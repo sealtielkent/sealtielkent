@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sealtielkent
 - 👀 I’m interested in Extreme Sports
-- 🌱 I’m currently learning Programming ex. Java
+- 🌱 I’m currently learning Programming (Java)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... you can reach through my email sealtielkent@gmail.com
 
