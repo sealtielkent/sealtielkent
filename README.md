@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sealtielkent
-- 👀 I’m interested in Extreme Sports
+- 👀 I’m interested in Extreme Sports/Programming
 - 🌱 I’m currently learning Programming (Java,Angular)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... you can reach through my email sealtielkent@gmail.com
